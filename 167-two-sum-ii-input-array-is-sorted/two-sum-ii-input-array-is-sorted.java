@@ -5,7 +5,7 @@ class Solution {
         int left=0;
         int right=nums.length-1;
 
-        int[] newarr={-1,-1};
+        int[] newarr={-1,0};
         
 
         while(left<right)
